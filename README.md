@@ -7,6 +7,6 @@
 POST /identify
 ```json
 {
-  "email"?: string,
-  "phoneNumber"?: string
+	"email": "mcfly@hillvalley.edu",
+	"phoneNumber": "123456"
 }
